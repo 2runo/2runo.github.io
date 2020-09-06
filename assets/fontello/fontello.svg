@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2020 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="github-circled-alt2" unicode="&#xf056;" d="M0 350q0-130 63-235 63-109 171-171t235-63q127 0 235 63 109 63 171 171t62 235q0 129-62 235-63 109-171 171t-235 62q-130 0-235-63-109-63-171-171t-63-234z m78 0q0 78 31 151t84 125q53 53 125 84t151 30 150-30 126-84q53-53 83-125t31-151q0-84-34-160t-97-132-142-80v138q0 51-42 80 103 9 150 52t48 136q0 72-45 121 9 27 9 51 0 36-16 67-33 0-59-11t-63-37q-46 10-94 10-55 0-103-11-37 27-63 38t-61 11q-16-31-16-67 0-25 9-51-45-48-45-121 0-93 48-136t151-52q-27-19-38-54-24-8-50-8-19 0-34 8-4 3-8 5t-7 7-7 6-6 8-5 7-6 7-5 7q-23 30-55 30-17 0-17-7 0-3 9-10 15-13 16-14 12-10 13-12 14-18 22-39 27-61 93-61 11 0 42 5v-103q-80 25-142 80t-96 132-35 160z" horiz-adv-x="937.5" />
+
+<glyph glyph-name="mail-alt" unicode="&#xf0e0;" d="M1000 454v-443q0-37-26-63t-63-27h-822q-36 0-63 27t-26 63v443q25-27 56-49 202-137 278-192 32-24 51-37t53-27 61-13h2q28 0 61 13t53 27 51 37q95 68 278 192 32 22 56 49z m0 164q0-44-27-84t-68-69q-210-146-262-181-5-4-23-17t-30-22-29-18-32-15-28-5h-2q-12 0-27 5t-32 15-30 18-30 22-23 17q-51 35-147 101t-114 80q-35 23-65 64t-31 77q0 43 23 72t66 29h822q36 0 63-26t26-63z" horiz-adv-x="1000" />
+</font>
+</defs>
+</svg>
