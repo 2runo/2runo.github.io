@@ -1,0 +1,23 @@
+html {
+    width: 100%;
+    height: 100%;
+    
+}
+
+body {
+    display: flex;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #252525;
+}
+
+#video {
+    display: block;
+}
+
+#canvas {
+    display: none;
+    visibility: hidden;
+    margin: auto;
+}
